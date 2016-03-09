@@ -252,8 +252,8 @@ function create_config( )
     about_text = [[
 https://github.com/BH-YAGHI/NOD32-BOT.git
 
-channel : @HACKANDEVILBOT
-sodu : @Xx_shah_zaq_xX
+channel : @kingsunsion
+sodu : @Xx_shah2_kings_Xx
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -318,13 +318,13 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-channel : @HACKANDEVILBOT
+channel : @kingsunsion
 
-sodu : @Xx_shah_zaq_xX
+sodu : @Xx_shah2_kings_Xx
 
 ]],
     help_text = [[
-EVILBOT Commands list :
+HELP Commands list :
  
 1-banhammer list ^
  
@@ -518,12 +518,11 @@ EVILBOT Commands list :
 !feedback (text)
 ارسال نظرات به سازنده
 
-you can use both "/" and "!" 
-.شما میتوانید از ! و / استفاده کنید
+همه دستورات بدون علامت تعجب کار میکند:)
 
-channel : @HACKANDEVILBOT
+channel : @kingsunsion
 
-sodu : @Xx_shah_zaq_xX
+sodu : @Xx_shah2_kings_Xx
 
 G00D LUCK ^_^
 ]]
