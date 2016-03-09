@@ -673,11 +673,11 @@ return {
         "^[!/](type)$",
     "^[!/](kill) (chat) (%d+)$",
     "^[!/](kill) (realm) (%d+)$",
-    "^[!/](addadmin) (.*)$", -- sudoers only
-    "^[!/](removeadmin) (.*)$", -- sudoers only
+    "^([Aa]ddadmin) (.*)$", -- sudoers only
+    "^([Rr]emoveadmin) (.*)$", -- sudoers only
     "^[!/](list) (.*)$",
         "^[!/](log)$",
-        "^[!/](help)$",
+        "^([Hh]lp)$",
         "^!!tgservice (.+)$",
   },
   run = run
